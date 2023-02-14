@@ -151,10 +151,10 @@ export const themes = {
     bg_color: "242424",
   },
   bear: {
-    title_color: "e03c8a",
-    icon_color: "00AEFF",
-    text_color: "bcb28d",
-    bg_color: "1f2023",
+    title_color: "#ec0a2f",
+    icon_color: "#1d00e9",
+    text_color: "ffffff",
+    bg_color: "#0d1117",
   },
   "solarized-dark": {
     title_color: "268bd2",
